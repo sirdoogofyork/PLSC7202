@@ -1,6 +1,6 @@
 '''
 Jake Holley
-10/31/19
+10/1/20
 Analysis of Lettuce Growth Data from Greenhouse 141a
 '''
 library(lme4)
