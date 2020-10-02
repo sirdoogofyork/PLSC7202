@@ -1,1 +1,1 @@
-# PLSC7202
+# Files for PLSC7202 course
